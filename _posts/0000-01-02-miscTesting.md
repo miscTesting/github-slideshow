@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Jupi!
+_Jupi jupi **jupi** jaj!_ :)
 Use the left arrow to go back!
